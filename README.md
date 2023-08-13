@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aashirwad Budhathoki
 - 🐍 I’m currently learning python/react
-- 💞️ I’m looking to collaborate on any project small projects that will help me develop and learn new things and skills
+- 💞️ I’m looking to collaborate on any small projects that will help me develop and learn new things and skills
 - 📫 You can contact with at aashbudh10@gmail.com
